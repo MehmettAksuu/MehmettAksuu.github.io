@@ -1,5 +1,3 @@
-Hello World
-
 # Mehmet Aksu's Journal
 
 ## Welcome to my Github Pages
