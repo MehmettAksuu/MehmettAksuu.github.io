@@ -3,7 +3,7 @@
 ## Welcome to my Progress Journal Website. 
 
 
-abababab
+
 
 
 ### This website is designed for FE588 course at Bogazici University.
