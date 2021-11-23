@@ -3,11 +3,6 @@
 ## Welcome to my Progress Journal Website. 
 
 
-<<<<<<< Updated upstream
-=======
-
-
->>>>>>> Stashed changes
 
 
 ### This website is designed for FE588 course at Bogazici University.
