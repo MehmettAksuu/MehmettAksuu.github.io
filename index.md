@@ -14,7 +14,7 @@
 
 #### Several homeworks will be loaded soon..
 
-### Homework Assignment 1 and 2
+### Homework 1-2
 * [FE588: Homework 1 and 2](https://github.com/MehmettAksuu/MehmettAksuu.github.io/blob/1c7f1ac8dec214c0675e3f961b40ce926279f193/Homework%201-2.ipynb)
 
 
