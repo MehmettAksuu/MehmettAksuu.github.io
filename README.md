@@ -3,7 +3,6 @@
 ## Welcome to my Progress Journal Website. 
 
 
-aaaa
 <<<<<<< Updated upstream
 =======
 
